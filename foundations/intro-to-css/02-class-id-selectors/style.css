@@ -1,0 +1,19 @@
+.my-class {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#my-id-one {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#p2 {
+    font-size: 24px;
+}
+
+#my-id-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
